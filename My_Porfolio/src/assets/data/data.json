@@ -1,0 +1,77 @@
+{
+  "welcome": "Bienvenido a ",
+  "website": "mi website!",
+  "hello": "Hola mundo, Soy",
+  "name": "Alejandro Perez",
+  "positionOne": "Programador Full Stack",
+  "positionTwo": "Diseñador UI",
+  "text": "Construir un producto exitoso es un gran desafío. estoy  capacitado en diseño de experiencia de usuario, interfaces y desarrollo web.",
+  "image": "../assets/img/img7-removebg.png ",
+  "description": "¡Hola! Soy programador & diseñador web, disciplinando, comprometido y resilente, actualmente estoy estudiando la carrera de programador en Teclab, y realizando distintos cursos, becas y bootcamps, para especializarme como Desarrollador Web Full Stack y reforzar lo aprendido en el instituto y por otros medios de forma autodidacta. Desde que comencé mis estudios de bachiller en informática siempre me  ha apasionado el mundo IT y desde hace mucho sabía que la tecnología era el futuro. Y ahora que esta mas que confirmado lo estudio y aprendo con más pasión y dedicación.",
+
+  "company": [
+    {
+      "yearCo": "2022",
+      "position": "Deposito/Logistica",
+      "name": "Zittana Textil",
+      "description": "Area de etiquetado y stock. Gestión y soporte de impresora etiquetadora. Instalación de software y drivers de etiquetadoras e impresoras."
+    },
+    {
+      "yearCo": "2018",
+      "position": "Vendedor TDC Día Market",
+      "name": "SNW marketing",
+      "description": "Ventas de TDC en supermercados Dia Market"
+    },
+    {
+      "yearCo": "2017",
+      "position": "Supervisor De Ventas",
+      "name": "Tiendas DAKA, C.A.",
+      "description": "Supervision de personal. Metricas. Soporte técnico pc, impresoras, teléfonos, y digital. Actualización de software, drivers y backup de teléfonos, tablets, Laptops y PCs."
+    },
+    {
+      "yearCo": "2016",
+      "position": "Supervisor De Ventas",
+      "name": "Pita Comercializadora, C.A.",
+      "description": "Supervision de personal. Lider de equipo. Metricas y estadisticas. Coach. Reuniciones diarias y mensual."
+    },
+    {
+      "yearCo": "2015",
+      "position": "Ejecutivo De Ventas",
+      "name": "Printer Tape, C.A.",
+      "description": "Soporte técnico de impresoras, fotocopiadoras y cartuchos de tinta y tóner."
+    },
+    {
+      "yearCo": "2014",
+      "position": "Data Entry",
+      "name": "Todo Digital, C.A.",
+      "description": "Proyecto Diario Noti-tarde."
+    },
+    {
+      "yearCo": "2012",
+      "position": "Asistente Operativo De Banca Privada",
+      "name": "Banesco Banco Universal.",
+      "description": "Asistente Operativo De Banca Privada(3,5 Años). Promotor Financiero(3 Años). Chequerista De Oficina(2 Años)"
+    }
+  ],
+
+  "education": [
+    {
+      "year": "2022",
+      "title": "Tecnico En Programacion",
+      "institute": "Instituto Teclab",
+      "description": "Aprendiendo HTML, CSS y Java, a configurar e implementar bases de datos utilizando SQL y Oracle. al finalizar me graduo en Programador Full Stack!"
+    },
+    {
+      "year": "2006",
+      "title": "Tecnico Superior En Informatica",
+      "institute": "I.U.T.E.P.A.L",
+      "description": " Sin culminar por la situacion economica del pais."
+    },
+    {
+      "year": "2001",
+      "title": "Bachiller En Informática",
+      "institute": "Liceo Dr. José María Gil",
+      "description": "Conocimientos básicos para incursionar en un puesto relacionado a la informática."
+    }
+  ]
+}
